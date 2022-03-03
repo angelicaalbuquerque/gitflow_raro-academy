@@ -5,6 +5,7 @@
 Na pasta `src/funcoes`, os arquivos listados abaixo definem funções utilitárias, que foram apenas definidas, através de sua assinatura e os comentários que as acompanham. Você deve completar as funções definidas, de forma que elas funcionem corretamente. Para testar estas funções, você pode utilizar as funções de `test...`, que estão construídas no arquivo `src/index.ts`. Caso houver algum erro de implementação das funções solicitadas, mensgens deverão aparecer em seu terminal indicando o erro.
 
 funçoes:
+
 - chunk.ts
 - compact.ts
 - fromPairs.ts
@@ -48,5 +49,6 @@ Para executar qualquer um destes comandos, basta você executar, no terminal, o 
 
 ## Estrutura do repositório
 
-Este repositório possui dois diretórios principais: 
+Este repositório possui dois diretórios principais:
+
 - `src`: pasta onde todas as funções deverão estar implementadas
